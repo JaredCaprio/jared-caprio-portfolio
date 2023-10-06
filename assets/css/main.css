@@ -1778,3 +1778,12 @@ body.is-article-visible #footer {
 body.is-preload #footer {
   opacity: 0;
 }
+
+.form-links {
+  display: inline-block;
+  padding-right: 1rem;
+}
+
+.image > img:hover {
+  opacity: 0.75;
+}
